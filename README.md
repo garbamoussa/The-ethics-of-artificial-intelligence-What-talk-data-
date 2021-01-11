@@ -33,7 +33,12 @@ Objective: Exploring ethical data and finding homogeneous subgroups such that va
 
 ## Datasets
 
-![Pand-Econo-LSTM Machine Learning Algorithm for Early Detection of country systemic risk](Visualizations/Source_type.png "Legend")
+![The-ethics-of-artificial-intelligence-What-talk-data](Visualizations/Source_type.png "Legend")
+
+
+
+
+![The-ethics-of-artificial-intelligence-What-talk-data](Visualizations/dataset.png "Legend")
 
 * [Source Data](https://docs.google.com/spreadsheets/d/1mU2brATV_fgd5MRGfT2ASOFepAI1pivwhGm0VCT22_U/edit#gid=0) - (Issuer, explainability, protection, data ) 
 * [Inventory algorithm](https://inventory.algorithmwatch.org/) - (Inventory algorithm)
